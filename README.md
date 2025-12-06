@@ -20,7 +20,7 @@ Docking protein file (4xxs_charged_minimized.pdbqt) and docking configuration fi
 
 +) 4. Molecular Dynamics: similarly, each compound's three replicates are stored in a different Zenodo archive. The folder also includes supplement data in the sub-folder 'Other_data' like graphs, MMGBSA summary, and decomposition analysis.
 Specific DOIs to the respective Zenodo archives:
-14XS: 10.5281/zenodo.17824216
-32: 10.5281/zenodo.17824339
-41: 10.5281/zenodo.17825420
-80: 10.5281/zenodo.17826716
+- 14XS: 10.5281/zenodo.17824216
+- 32: 10.5281/zenodo.17824339
+- 41: 10.5281/zenodo.17825420
+- 80: 10.5281/zenodo.17826716
